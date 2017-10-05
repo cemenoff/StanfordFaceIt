@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8C90F8EC6601E6F82F08ACB85D39960D410580E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C90F8EC6601E6F82F08ACB85D39960D410580E5" : 9223372036854775807,
+    "3590B97E92CCECFD6F000097AB79698D9E8B51E8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D450B3C-101E-4EF1-9E99-B330148604DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8C90F8EC6601E6F82F08ACB85D39960D410580E5" : "Stanford\/",
+    "3590B97E92CCECFD6F000097AB79698D9E8B51E8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StanfordFaceIt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FaceIt\/StanfordFaceIt\/StanfordFaceIt.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cemenoff\/Stanford.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3590B97E92CCECFD6F000097AB79698D9E8B51E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cemenoff\/StanfordFaceIt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C90F8EC6601E6F82F08ACB85D39960D410580E5"
+    }
+  ]
+}

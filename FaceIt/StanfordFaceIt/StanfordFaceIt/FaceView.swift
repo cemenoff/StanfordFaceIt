@@ -10,6 +10,8 @@ import UIKit
 
 @IBDesignable
 class FaceView: UIView {
+    //Public API
+    
     @IBInspectable
     var scale: CGFloat = 0.9
     
@@ -53,7 +55,7 @@ class FaceView: UIView {
         } else {
             path = UIBezierPath()
             path.move(to: CGPoint(x: eyeCenter.x - eyeRadius, y: eyeCenter.y))
-                path.addLine(to: CGPoint(x: eyeCenter.x + eyeRadius, y: eyeCenter.y))
+            path.addLine(to: CGPoint(x: eyeCenter.x + eyeRadius, y: eyeCenter.y))
         }
         path.lineWidth = lineWidth
         return path
